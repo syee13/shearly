@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>AdminLTE 3 | Blank Page</title>
+  <title>Rumah Sakit Sehati</title>
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -34,14 +34,14 @@
     <!-- Brand Logo -->
     <!-- Sidebar brand/logo -->
 <a href="#" class="brand-link text-center">
-  <span class="brand-text font-weight-bold text-primary">Rumah Sakit Cinta Kasih</span>
+<span class="brand-text font-weight-bold" style="color:rgb(0, 255, 200);">Rumah Sakit Sehati</span>
 </a>
 
 <!-- Sidebar user panel (username di tengah, tanpa foto) -->
 <div class="user-panel mt-3 pb-3 mb-3 d-flex justify-content-center">
   <div class="info text-center">
-    <a href="#" class="d-block">
-      <?= $this->session->userdata('username'); ?>
+<a href="#" class="d-block" style="color: white;">
+        <?= $this->session->userdata('username'); ?>
     </a>
   </div>
 </div>
