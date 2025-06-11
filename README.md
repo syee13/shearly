@@ -2,11 +2,11 @@
 
 Password 
 
-dashboard user :
+Log in user :
 username: user
 password: 123456
 
 
-dashboard admin :
-username:shearly
+Log in admin :
+username: shearly
 password:123456
